@@ -8,4 +8,5 @@ Repository for the paper "Biomedical XAI research acceleration: a historical per
 The code includes the experimental notebooks for the download and analysis of the relevant papers, as well as the Negative Binomial changepoint analysis for the estimation of the acceleration in Biomedical XAI research.
 
 
-[embed]https://github.com/gvisona/BiomedXAI/blob/main/plots/timeskip_changepoint_NBinom.pdf[/embed]
+
+![BiomedXAI acceleration](plots/timeskip_changepoint_NBinom.png?raw=true "Acceleration in the rate of publication in Biomedical XAI")
