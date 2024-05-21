@@ -10,3 +10,6 @@ The code includes the experimental notebooks for the download and analysis of th
 
 
 ![BiomedXAI acceleration](plots/timeskip_changepoint_NBinom.png?raw=true "Acceleration in the rate of publication in Biomedical XAI")
+
+
+This project has received funding from the European Union's Framework Programme for Research and Innovation Horizon 2020 (2014-2020) under the Marie Skłodowska-Curie Grant Agreement No. 813533-MSCA-ITN-2018.
